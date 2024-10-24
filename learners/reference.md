@@ -54,6 +54,7 @@ Yoon, A., & Schultz, T. (2017). Research Data Management Services in Academic Li
 
 - [NNLM Creating Data Management Plans with DMPTool (Webinar recording)](https://www.nnlm.gov/training/class/creating-data-management-plans-dmptool)
 - [DMPTool Administrator Wiki](https://github.com/CDLUC3/dmptool/wiki/help-for-administrators)
+- [DART DMP Rubric](https://osf.io/mgjpp) - for assessment of quality of DMPs
 
 ### Episode 5
 
