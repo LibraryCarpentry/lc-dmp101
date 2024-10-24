@@ -10,6 +10,6 @@
 "episodes/dmptool.md" "8318b508a3d6d7a5284d8976be5cda34" "site/built/dmptool.md" "2024-03-22"
 "episodes/data-management-plan-sevices.md" "21b7f179a179f2bca30bdb2bf90121e2" "site/built/data-management-plan-sevices.md" "2024-04-01"
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2023-08-15"
-"learners/reference.md" "00fa6b88755b58ad25b7130a07f071a9" "site/built/reference.md" "2024-10-24"
+"learners/reference.md" "db1d43fea6ec224805bcbbd288e76149" "site/built/reference.md" "2024-10-24"
 "learners/setup.md" "514bd1095743e8c1a6088d7bccc7f332" "site/built/setup.md" "2023-11-08"
 "profiles/learner-profiles.md" "0093bf53a4a114abda8a6474fc8b85f8" "site/built/learner-profiles.md" "2024-01-10"
