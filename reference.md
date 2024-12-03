@@ -56,6 +56,7 @@ Yoon, A., & Schultz, T. (2017). Research Data Management Services in Academic Li
 - [DMPTool Administrator Wiki](https://github.com/CDLUC3/dmptool/wiki/help-for-administrators)
 - [DART DMP Rubric](https://osf.io/mgjpp) - for assessment of quality of DMPs
 - [Stanford DMSP Rubric](https://zenodo.org/records/7710001)
+- [Data Quality Literacy Guidebook](https://www.dataqualityliteracy.org/a-guidebook)
 
 ### Episode 5
 
