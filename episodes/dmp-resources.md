@@ -21,7 +21,7 @@ exercises: 10
 As librarians, we use a variety of resources to answer researchers’ questions, such as library databases like ERIC or PsycInfo, or reference sources like Credo. When answering data management plan questions, you will use a new set of resources. In this lesson, we will introduce you to places to find data management planning information to answer common researcher questions.
 
 ## Funder Requirements
-Funders are increasingly including DMPs in their requirements for grant applications. Due to the 2022 Ensuring Free, Immediate, and Equitable Access to Federally Funded Research memo, colloquially known as the “[Nelson Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-access-Memo.pdf)”, all federal granting agencies in the US are required to establish data sharing policies. When assisting a researcher writing a DMP for a grant application, the first step is to get a handle on the funder’s requirements for the plan.
+Funders are increasingly including DMPs in their requirements for grant applications. Due to the 2022 Ensuring Free, Immediate, and Equitable Access to Federally Funded Research memo, colloquially known as the “[Nelson Memo](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)”, all federal granting agencies in the US are required to establish data sharing policies. When assisting a researcher writing a DMP for a grant application, the first step is to get a handle on the funder’s requirements for the plan.
 
 Here are some places to check for funder requirements:
 
