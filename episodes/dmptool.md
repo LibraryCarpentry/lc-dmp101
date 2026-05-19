@@ -117,7 +117,7 @@ Choice A is correct. At the bottom of your dashboard you can see plans for your 
 Below are some common issues, how they can be identified, and constructive feedback that can be provided to improve the DMP. As you begin to assist researchers with data management planning and revising their DMPs, you too will notice these and other trends that will make issues easier to spot in the future.
 
 ::::::::::::::::::::::: callout
-Please note that constructive feedback may differ if the research agrees to a consultation, or if you are providing feedback through email or the DMPTool.
+Please note that constructive feedback may differ if the researcher agrees to a consultation, or if you are providing feedback through email or the DMPTool.
 
 :::::::::::::::::::::::::::::
 
