@@ -86,7 +86,7 @@ Metadata is information that describes, explains, locates, classifies, contextua
 The data timeline includes information about when data will be backed-up, preserved, and published. Some agencies specify in their policies when the dataset must be shared, such as at the end of the reporting period (the active research phase). In addition to specifying their timelines, this section requires researchers consider what measures they need to take to ensure data security. Raw data may include identifiers such as PII or sensitive information such as location of endangered species that should be protected during collection and processing. Examples of good security practices include using access restrictions such as passwords, encryption, power supply backup, and virus and intruder protections. Active storage location and appropriate software will depend on data sensitivity level. In addition, before sharing any sensitive data with collaborators or depositing into a repository, the dataset should be de-identified or aggregated.
 
 ::: callout
-Although there are many data de-identification methods, it is beyond the scope of this lesson. For more information, please see the further reading resources on the [reference page](https://ucla-imls-open-sci.info/dmp101/reference.html).
+Although there are many data de-identification methods, it is beyond the scope of this lesson. For more information, please see the further reading resources on the [reference page](https://librarycarpentry.github.io/lc-dmp101/reference.html).
 :::
 
 #### Example
