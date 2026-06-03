@@ -179,7 +179,7 @@ Discuss your answer and how you arrived at that conclusion with a partner.
 
 ::: solution
 1. Answers will vary, but one acceptable response is Vivli. To find which data repositories accept clinical trial data, use the NNLM data repository finder and check off “Clinical Trials” under question 4.
-1. Answers will vary. We can see [Vivli’s guidance on data standards](https://vivli.org/wp-content/uploads/2023/01/NIH-DMSP-Template-and-Budget-Justification-Using-Vivli-v1.0.docx#:~:text=VIVLI%20Notes%3A%20Vivli%20does%20not,%2C%20csv)%20used%20for%20analysis.), where they recommend following [CDISC standards](https://www.cdisc.org/standards/therapeutic-areas).
+1. Answers will vary. We can see [Vivli’s guidance on data standards](https://vivli.org/NIH-DMSP-VIVLI-guidance), where they recommend following [CDISC standards](https://www.cdisc.org/standards/therapeutic-areas).
 :::
 
 
