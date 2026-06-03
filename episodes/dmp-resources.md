@@ -81,7 +81,7 @@ Here are the types of data repositories that researchers can use for sharing dat
 - **Institutional data repository.** Some institutions host their own data repository to encourage their researchers to deposit data. These are typically limited to affiliates of the host institution, though you should check if your researcher’s collaborators are affiliated with an institution hosting a data repository. Other institutional repositories, like the [Harvard Dataverse](https://dataverse.harvard.edu/), allow any researcher to deposit their datasets regardless of affiliation.
 
 ::: callout
-Institutional repositories vary in their ability to accept and maintain data. Before commiting to using an institutional repository, check that they routinely accept data.
+Institutional repositories vary in their ability to accept and maintain data. Before committing to using an institutional repository, check that they routinely accept data.
 :::
 
 Recommending a data repository for inclusion in a DMP can be challenging. Generally, it is best to recommend a specialist repository, followed by an institutional or generalist repository. Here are some tools to help you find the right data repository for your researcher:
