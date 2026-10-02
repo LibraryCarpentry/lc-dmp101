@@ -74,6 +74,12 @@ Write down three challenges you anticipate at your institution when implementing
 ::::::::::::::::::::::::::::::::::
 
 
+## Conclusion
+
+Throughout this course we have walked you through providing data management plan services in your library. We began with an overview of DMPs, reviewed relevant resources, and shared tips for providing services to patrons. Finally, we offered suggestions on how to implement DMP services at your library.
+
+Looking to the future, it is likely that DMP services will continue to be a growth area for libraries. The 2022 [Nelson Memo](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf) directed US federal agencies to require sharing of federally funded research data and publications. This and similar policies will continue to fuel the movement towards open data, and, with it, the need for librarian support of data management and sharing.
+
 :::::: keypoints
 - When preparing to start DMP services in your library, reach out to other institutional stakeholders for collaboration.
 - Join a professional organization to get support from other librarians.
