@@ -73,7 +73,7 @@ The highest level of access available is granted to the site administrator at yo
 - View plans created at your institution and a list of registered users
 
 ::::::::::::::::::::: callout
-For more resources on using the DMPTool as an administrator, please see [the references page](https://ucla-imls-open-sci.info/dmp101/reference.html).
+For more resources on using the DMPTool as an administrator, please see [the references page](https://librarycarpentry.github.io/lc-dmp101/reference.html).
 :::::::::::::::::::::
 
 ::::::::::::::::::::::::::::: challenge
